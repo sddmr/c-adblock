@@ -21,7 +21,7 @@ This project demonstrates **C programming**, **string processing**, and **file h
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/sddmr/c-adblock
 cd c-adblocker
 ````
 
